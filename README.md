@@ -54,7 +54,7 @@
       <a href="mailto:gabrielperes900@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-4CD983?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-      <a href="https://www.linkedin.com/in/joão-gabriel-peres-de-castro-b73864288">
+      <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-b73864288/?isSelfProfile=true">
         <img src="https://img.shields.io/badge/LinkedIn-4CD983?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1164811P6&tokenCaptchar=0cAFcWeA7mwJTnr0Stz6Xwpw2ov2tt_O-hlOhitq0kFK5aMAQq9D1WwLIkAELxeCqUq5YSlhCJO03M8xXdO5bxU3O01yKyA9WfFHiT8DE5tFbUklXTDEaxEiewSulc-kosw-rQiblIZDhScwbcwFwfE0O_-8k5JZ4IXMF4dbe2iMor8t7nbNBoiPD5ia7-wdx15rpPeN16uLG4BITthyilsKIrcqPveBRAolbq_CXyRQkqUnIeI1x0GFT1JgIMnc2DmZ2ZMwr5b-NTaNGikRBE08DGAwgRr63rQ6vjr7lVfjJS_2o_eyawuWhDRrqjwN8IGsjyCDedKDesZhg16iOPktm9rDf1sYqcK9lDpASl62n4kOhoED_Z80p4Q_CqcQqf4R3IWhqG2LkuKaAZxcwcasbeKYb4qyaqLuM7grQv0DWq5GJYd88F8PrYzPB8hpcaPKbXKSzVuA8zGwMfSospOtDKJ0Jp5IHrMm7q_E8YaZ1E0QX-X_gN3LD7U_U_-tW2_T0almO6hAy2V4v48mu4CnFMurlUYHzmUWYEMaJXQupEvdN2_uQAREBpQhZYf2UzO0AMUicFg_Tlm2BCgFMJYBU3Qu-b-3xmN4KBbCRxzaTEFCQm-RxEknOPsdv3oSrj7UpYxW9uztl6oJy0DzdlP6CK7oQ35g46vkEhCG1WU-8i5H2olzZ_0oGoyZllzzj5pxZJWpBsx73sOz-TfnOX6bGaKgIIG1qq4Vx2PVaOpQXI9o2TuNEoZM2i_miq3BHoLDSYG7qANk9b">
